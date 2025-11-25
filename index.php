@@ -27,7 +27,7 @@ $gallery_items = $stmt->fetchAll();
 <section class="section">
     <div class="container">
         <div class="section-header">
-            <h2>Why Choose Us</h2>
+            <h2>Why Choose Us Fuck you</h2>
             <p>We provide the best beauty services with premium quality products</p>
         </div>
 

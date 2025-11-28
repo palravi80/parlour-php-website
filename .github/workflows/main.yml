@@ -21,6 +21,6 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
           script: |
             cd /var/www/html
-            mv .env .env_bkp
+            mv .env_bkp .env
             git pull origin main
             sudo systemctl restart apache2
